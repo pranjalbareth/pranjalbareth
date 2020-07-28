@@ -2,6 +2,7 @@
 
 <!--
 **pranjalbareth/pranjalbareth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 _________________________________________________________________________________________________________________________________________________________
 
 - 🔭 I’m currently working on React Based Food Ordering Comparison Platform
