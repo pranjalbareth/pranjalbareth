@@ -10,5 +10,4 @@ ________________________________________________________________________________
 - 👯 I’m looking to collaborate on React.js projects
 - 📫 How to reach me: 
 
- MAIL : pranjalnirmala@gmail.com
- LINKEDIN : https://www.linkedin.com/in/pranjal-bareth/
+ MAIL : pranjalnirmala@gmail.com | LINKEDIN : https://www.linkedin.com/in/pranjal-bareth/
