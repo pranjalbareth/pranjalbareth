@@ -42,12 +42,3 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&layout=compact&theme=material-palenight" />
 </a>
-
-<a href="https://github.com/pranjalbareth/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalbareth&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/pranjalbareth/pranjalbareth.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjalbareth&repo=pranjalbareth.github.io&theme=material-palenight" />
-</a>
