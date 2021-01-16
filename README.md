@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Pranjal Bareth, a passionate self-taught FullStack web developer from India.
 
 - 🔭 I’m currently working on [workshot](https://github.com/pranjalbareth/workshot)
 - 🌱 I’m currently learning Typescript
