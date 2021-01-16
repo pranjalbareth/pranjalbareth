@@ -12,10 +12,10 @@
 
 Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on [workshot](https://github.com/pranjalbareth/workshot)
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/pranjalbareth/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/pranjalbareth/pranjalbareth/issues)
 
 **Languages and Tools:**  
 
