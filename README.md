@@ -1,43 +1,32 @@
-### Hi there, I'm [Pranjal!](https://pranjalbareth.github.io) 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px"> I'm Pranjal Bareth</h1>  
+<h3 align="center">🚀 Building things from scratch that work.. Eventually !</h3>  
+<h4 align="center">Intro: A college student converting solutions into code, of problems i myself didn't knew exist</br><span>Lol.</span></h4>
 
-<a href="https://twitter.com/pranjalbareth">
-  <img align="left" alt="Pranjal Bareth | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Pranjal's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bareth/)](https://www.linkedin.com/in/pranjal-bareth/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pranjalbareth)](https://twitter.com/pranjalbareth)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/pranjalbareth)](https://dev.to/pranjalbareth)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-25272D?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/pranjalbareth)](https://codepen.io/pranjalbareth)
 
-<br />
-<br />
+- 🌱 I’m currently learning **React.js** & **Node.js**
 
-Hi, I'm Pranjal Bareth, a passionate self-taught FullStack web developer from India.
+- You can find my portfolio at -> [pranjalbareth.netlify.app](https://pranjalbareth.netlify.app)
 
-- 🔭 I’m currently working on [workshot](https://github.com/pranjalbareth/workshot)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Flux-India](https://github.com/pranjalbareth/flux-india)
-- 💬 Ask me about anything [here](https://github.com/pranjalbareth/pranjalbareth/issues)
+- 💬 Ask me beginner questions about **HTML | CSS | JS | React | Node.js**  
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
-
-<a href="https://github.com/pranjalbareth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjalbareth&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Pranjal's github stats" />
-</a>
-<a href="https://github.com/pranjalbareth/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&layout=compact&theme=material-palenight" />
-</a>
+ ## ⚡ Technologies  
+ 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&hide=TeX&layout=compact)
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
