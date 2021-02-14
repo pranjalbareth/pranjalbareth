@@ -27,3 +27,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&hide=TeX&layout=compact&theme=radical)
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![Project--fOSS](https://img.shields.io/badge/Projekt--fOSS-Lead-brightgreen)
