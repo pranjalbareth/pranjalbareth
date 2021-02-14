@@ -6,9 +6,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/pranjalbareth)](https://dev.to/pranjalbareth)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-25272D?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/pranjalbareth)](https://codepen.io/pranjalbareth)
 
-- 🌱 I’m currently learning **React.js** & **Node.js**
-
-- You can find my portfolio at -> [pranjalbareth.netlify.app](https://pranjalbareth.netlify.app)
+- 🌱 I’m currently learning **Flutter** & **React**
 
 - 💬 Ask me beginner questions about **HTML | CSS | JS | React | Node.js**  
 
