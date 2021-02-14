@@ -11,8 +11,7 @@
 - 💬 Ask me beginner questions about **HTML | CSS | JS | React | Node.js**  
 
  ## ⚡ Technologies  
-
-[![](http://flutter-badge.zaynjarvis.com/score/flutter_signin_button)](https://pub.dartlang.org/packages/flutter_signin_button)
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
