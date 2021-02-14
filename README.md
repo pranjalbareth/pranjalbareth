@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px"> I'm Pranjal Bareth</h1>  
-<h3 align="center">🚀 Building things from scratch that work.. Eventually !</h3>  
+<h3 align="center">https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif Building things from scratch that work.. Eventually !</h3>  
 <h4 align="center">Intro: A college student converting solutions into code, of problems i myself didn't knew exist</br><span>Lol.</span></h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bareth/)](https://www.linkedin.com/in/pranjal-bareth/)
