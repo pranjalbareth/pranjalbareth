@@ -26,7 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&hide=TeX&layout=compact&theme=onedark)
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
