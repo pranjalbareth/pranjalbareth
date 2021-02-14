@@ -26,7 +26,15 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-Sass-CF649A?style=flat-square&logo=sass&logoColor=white)
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=dark)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=merko)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=cobalt)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalbareth&hide=TeX&layout=compact&theme=cobalt)
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
