@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter** & **React**
 
-- 💬 Ask me beginner questions about **HTML | CSS | JS | React | Node.js**  
+- 💬 Ask me questions about **HTML | CSS | JS | React | Node.js**  
 
  ## ⚡ Technologies  
  
