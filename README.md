@@ -23,4 +23,4 @@ I’m currently working with **JavaScript** <img src="https://github.githubasset
  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pranjalbareth&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranjalbareth.pranjalbareth)
