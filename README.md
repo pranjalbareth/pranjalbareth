@@ -4,13 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bareth/)](https://www.linkedin.com/in/pranjal-bareth/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/pranjalbareth)](https://twitter.com/pranjalbareth)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/pranjalbareth)](https://dev.to/pranjalbareth)
-[![Codepen Badge](https://img.shields.io/badge/-Codepen-25272D?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/pranjalbareth)](https://codepen.io/pranjalbareth)
 
-- 🌱 I’m currently working on **React** & **Flutter**
 
-- 💬 Ask me questions about **CSS | JS | React | Nodejs | Flutter**  
+I’m currently working with **JavaScript** <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px"/>
 
- ## ⚡ Technologies  
+ ## ⚡ Technologie2s  
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
