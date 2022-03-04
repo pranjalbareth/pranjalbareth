@@ -8,7 +8,7 @@
 
 I’m currently working with **JavaScript** <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px"/>
 
- ## ⚡ Technologie2s  
+ ## ⚡ Technologies  
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
