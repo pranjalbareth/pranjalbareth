@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px"> I'm Pranjal Bareth</h1>  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/RidhikGovind/RidhikGovind/master/wave.gif" width="30px"> I'm Pranjal !</h1>  
 <h2 align="center"><img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="40px"> Work in Progress</h2>  </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bareth/)](https://www.linkedin.com/in/pranjal-bareth/)
