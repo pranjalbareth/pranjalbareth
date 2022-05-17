@@ -4,7 +4,7 @@
 [![MAIL Badge](https://img.shields.io/badge/-pranjalnirmala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalnirmala@gmail.com)](mailto:pranjalnirmala@gmail.com)
 ![](https://komarev.com/ghpvc/?username=PranjalBareth&style=flat-square)
 
-A IT Undergard (Pre-Final Year) 👨🏻‍💻 in [Shri Shankaracharya Technical Campus, Bhilai](https:/sstc.ac.in) and Developer from India
+A IT Undergard (Pre-Final Year) 👨🏻‍💻 in [Shri Shankaracharya Technical Campus, Bhilai](https://sstc.ac.in) and Developer from India
 
 
 This place :house: houses a lot of the software projects :telescope: I am interested in.
