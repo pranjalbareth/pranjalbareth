@@ -4,8 +4,7 @@
 [![MAIL Badge](https://img.shields.io/badge/-pranjalnirmala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalnirmala@gmail.com)](mailto:pranjalnirmala@gmail.com)
 ![](https://komarev.com/ghpvc/?username=PranjalBareth&style=flat-square)
 
-A IT Undergard (Pre-Final Year) 👨🏻‍💻 in [Shri Shankaracharya Technical Campus, Bhilai](https://sstc.ac.in) and Developer from India
-
+Working at Deloitte 👨🏻‍💻
 
 This place :house: houses a lot of the software projects :telescope: I am interested in.
 
@@ -15,13 +14,8 @@ You can explore :mag: the projects I am working on publically and would be elate
 
 - Javascipt :scroll:
 - Java :coffee:
-- Python :snake:
-- Sometimes scrible in Dart too :loop:
+- Sometimes scrible in GoLang too :loop:
 
 ### Toys I Play with :abacus:
 
- React | Node | Express | MongoDB | Flutter | Django 
-
-### Trying Out :athletic_shoe:
-
-NextJS | GoLang | PostgreSQL
+ React | Spring | Node | React-native | MongoDB  | PostgreSQL
